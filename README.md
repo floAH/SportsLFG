@@ -1,8 +1,8 @@
 # SportsLFG
 #####Note: 
-1. Developed using XCode 7.1 and Swift 2.0 targeting iOS 9.1. Using lower versions of either one could result in errors
+1. Developed by using XCode 7.1 and Swift 2.0 targeting iOS 9.1. Using lower versions of either one could result in errors
 
-2. Run the .xcworkspace file instead of .xcodeproj file because Kinvey's APIs is included using cocoapod
+2. Running .xcworkspace file instead of .xcodeproj file because Kinvey's APIs include using cocoapod
 
 
 ####TODO
